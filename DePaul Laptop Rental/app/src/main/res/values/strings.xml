@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinalProjNieves</string>
+    <string name="app_title">DePaul University PC Rental</string>
+    <string name="name_ghost">Name</string>
+    <string name="email_ghost">Email contact</string>
+    <string name="phone_ghost">Phone Number</string>
+    <string name="submit_button">Submit Fourm</string>
+    <string name="reset_button">Start Over</string>
+    <string name="form_count">Submitted Forms: 0</string>
+    <string name="confirmation_title">Rental Confirmed. Thanks!</string>
+
+
+        <string-array name="duration_array">
+            <item>1 day</item>
+            <item>3 days</item>
+            <item>1 week</item>
+        </string-array>
+
+        <string-array name="computer_model_array">
+            <item>Windows</item>
+            <item>Mac</item>
+            <item>Lenovo</item>
+            <item>Dell</item>
+        </string-array>
+    </resources>

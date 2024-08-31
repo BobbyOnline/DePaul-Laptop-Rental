@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="depaul_blue">#1D3C8B</color>
+    <color name="depaul_red">#E62143</color>
+    <color name="depaul_gold">#FFD200</color>
+    <color name="depaul_gray">#6D6E70</color>
+    <color name="white">#FFFFFF</color>
+</resources>
+
+<!--a touch of depaul colors that help decorate the application-->
